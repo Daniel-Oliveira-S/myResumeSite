@@ -10,8 +10,6 @@ como me contatar e minhas redes sociais </p>
 
 <br>
 
----
-
 ### HTML | CSS
 
 <br>
